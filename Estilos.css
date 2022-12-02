@@ -1,0 +1,74 @@
+nav .logotipo {
+	font-family: 'Bebas Neue', cursive;
+	font-weight: normal;
+	color:#63C4D9;
+	font-size: 40px;
+}
+
+.head {
+  background-color:#C8D8AA;
+color: #fff;
+font-style: oblique;
+}
+
+
+.encabezado a{
+  padding-left: 50px;
+  padding-right: 20em;
+  margin: 2;
+  }
+
+  nav a {
+    margin-top: 55px;
+    padding-left: 80px;
+    color:#800080;
+    padding-right:  17px;
+    border-right-style: solid;
+    border-left-width: medium;
+    }
+
+.logo {
+  float: left;
+}
+.parrafos {
+    color: #AA1ACA;
+    	font-size: 20px;
+      text-align: justify;
+}
+
+.texto {
+  color:#010101;
+}
+#parra p {
+  color:#010101;
+}
+
+.footer-copyright{
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+    background-color: #2B3D51;
+}
+
+.titulo{
+  position:static;
+  line-height: normal;
+  background-color:#E36A25;
+  color: #FFF;
+  margin-bottom: 25px;
+}
+
+.inactivo {
+  font-style: italic;
+  color: red;
+  font-size: 100px;
+  line-height: 45px;
+  margin-top: 250px;
+}
+
+.lineaVertical{
+    background-color: #000;
+    height: 40px;
+}
